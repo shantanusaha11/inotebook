@@ -1,5 +1,5 @@
 # [iNotebook](https://gorgeous-trifle-66845d.netlify.app)
-![Frienzo](https://static.javatpoint.com/blog/images/mern-stack.png)
+![iNotebook](https://static.javatpoint.com/blog/images/mern-stack.png)
 
 ##### Hi, I'm Shantanu:
 
